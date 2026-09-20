@@ -1,0 +1,9 @@
+raw_data/
+*.csv
+*.zip
+~$*.xlsx
+*.pbit.tmp
+.DS_Store
+Thumbs.db
+*.sql.bak
+*.dump
